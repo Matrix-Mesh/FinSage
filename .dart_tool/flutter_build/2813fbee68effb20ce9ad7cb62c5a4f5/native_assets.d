@@ -1,0 +1,1 @@
+ D:\\Flutter\ Programmes\\FinSage\\.dart_tool\\flutter_build\\2813fbee68effb20ce9ad7cb62c5a4f5\\native_assets.yaml: 
